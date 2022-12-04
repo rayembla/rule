@@ -29,6 +29,8 @@ DOMAIN-SUFFIX,long2ice.io
 DOMAIN-SUFFIX,breached.to
 DOMAIN-SUFFIX,daum.net
 DOMAIN-SUFFIX,dalao.ru
+DOMAIN-SUFFIX,my.sharepoint.com
+
 PROCESS-NAME,Telegram.exe
 PROCESS-NAME,Telegram
 PROCESS-NAME,Nekogram
@@ -37,4 +39,3 @@ PROCESS-NAME,tor.exe
 PROCESS-NAME,tor
 PROCESS-NAME,ZeroNet.exe
 PROCESS-NAME,ZeroNet
-DOMAIN-SUFFIX,my.sharepoint.com

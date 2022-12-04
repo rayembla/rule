@@ -14,6 +14,7 @@ DOMAIN-KEYWORD,moedict.tw
 DOMAIN-KEYWORD,cn.bing.com
 DOMAIN-KEYWORD,ikandy.fun
 DOMAIN-KEYWORD,sub.danhu.ml
+
 DOMAIN-SUFFIX,goproxy.cn
 DOMAIN-SUFFIX,goproxy.io
 DOMAIN-SUFFIX,suoyou.live
@@ -26,6 +27,7 @@ DOMAIN-SUFFIX,qvcp1z.ml
 DOMAIN-SUFFIX,qvcp1z.cf
 DOMAIN-SUFFIX,qvcp1z.ga
 DOMAIN-SUFFIX,qvcp1z.gq
+DOMAIN-SUFFIX,qlicu-my.sharepoint.com
+
 PROCESS-NAME,peer
 PROCESS-NAME,peer.exe
-DOMAIN-SUFFIX,qlicu-my.sharepoint.com
