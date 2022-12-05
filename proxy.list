@@ -17,6 +17,7 @@ DOMAIN-KEYWORD,adguard.org
 DOMAIN-KEYWORD,geolite.maxmind.com
 DOMAIN-KEYWORD,twitter.com
 DOMAIN-KEYWORD,sourcegraph.com
+DOMAIN-KEYWORD,github.com
 DOMAIN-SUFFIX,githubmemory.com
 DOMAIN-SUFFIX,sub.cm
 DOMAIN-SUFFIX,reurl.cc
