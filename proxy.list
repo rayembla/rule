@@ -103,6 +103,8 @@ DOMAIN-SUFFIX,.org.uk
 DOMAIN-SUFFIX,.jiesen.life
 DOMAIN-SUFFIX,.dealclub.de
 
+PROCESS-NAME,wv2ray.exe
+PROCESS-NAME,clash-win64.exe
 PROCESS-NAME,Telegram.exe
 PROCESS-NAME,Telegram
 PROCESS-NAME,Nekogram
