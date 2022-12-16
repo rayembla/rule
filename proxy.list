@@ -19,6 +19,7 @@ DOMAIN-KEYWORD,twitter.com
 DOMAIN-KEYWORD,sourcegraph.com
 DOMAIN-KEYWORD,github.com
 
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,githubmemory.com
 DOMAIN-SUFFIX,sub.cm
 DOMAIN-SUFFIX,reurl.cc
