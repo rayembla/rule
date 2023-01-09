@@ -106,6 +106,8 @@ DOMAIN-SUFFIX,.org.uk
 DOMAIN-SUFFIX,.jiesen.life
 DOMAIN-SUFFIX,.dealclub.de
 
+DST-IP,159.223.63.199
+
 PROCESS-NAME,copilot-agent-win.exe
 PROCESS-NAME,copilot-agent-macos-arm64
 PROCESS-NAME,copilot-agent-macos
