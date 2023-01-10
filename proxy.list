@@ -108,6 +108,7 @@ DOMAIN-SUFFIX,.dealclub.de
 
 DST-IP,159.223.63.199
 
+PROCESS-NAME,steam.exe
 PROCESS-NAME,copilot-agent-win.exe
 PROCESS-NAME,copilot-agent-macos-arm64
 PROCESS-NAME,copilot-agent-macos
